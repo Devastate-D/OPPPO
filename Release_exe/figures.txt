@@ -1,0 +1,19 @@
+{
+    "figures": [
+        {
+            "type": 3,
+            "color": 0,
+            "edit_date": 1607564651,
+            "childclass": {
+                "lef_top": {
+                    "x": 3.0,
+                    "y": 3.0
+                },
+                "rig_bot": {
+                    "x": 3.0,
+                    "y": 3.0
+                }
+            }
+        }
+    ]
+}
